@@ -8,8 +8,8 @@ I'm a computer Science student passionate about building practical , real world 
 - Working on real-world projects that solve practical problems.
 - Based in Kenya
   ## Ambitions
-  - Build production-ready fullstack applications
-  - Collaborate on open source projects
+ - Build production-ready fullstack applications
+ - Collaborate on open source projects
  - Grow into professional software Engineer who ships meaningful products
  - Use technology to solve problems in Kenya and beyond
   ## Contact Me
