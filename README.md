@@ -3,12 +3,12 @@ Aspiring Data Scientist and Engineer.Good at building systems that solve real wo
 ## About Me
 I'm a Computer Science student passionate about turning raw data into meaningful insights and building practical, real-world software solutions. I enjoy exploring data, building models, and developing web applications — turning ideas into working systems one at a time.
 
-🎓 Currently studying Computer Science
-📊 Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
-🌐 Web Development — Node.js, Express, MongoDB, and JavaScript
-💻 Also well conversant with Java and C++
-🔨 Working on data-driven and web projects that solve practical problems
-📍 Based in Kenya
+-🎓 Currently studying Computer Science
+-📊 Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
+-🌐 Web Development — Node.js, Express, MongoDB, and JavaScript
+-💻 Also well conversant with Java and C++
+-🔨 Working on data-driven and web projects that solve practical problems
+-📍 Based in Kenya
   ## Ambitions
  - Build production-ready fullstack applications
  - Collaborate on open source projects
