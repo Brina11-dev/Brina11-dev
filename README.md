@@ -1,12 +1,14 @@
 # Brina11-dev
-Aspiring Software developer and Engineer.Good at building systems that solve real world problems. Open to remote jobs.
+Aspiring Data Scientist and Engineer.Good at building systems that solve real world problems. Open to remote jobs.
 ## About Me
-I'm a computer Science student passionate about building practical , real world software solutions. I enjoy building web development and love learning by doing turning ideas into working systems one at a time.
-- Currently studying computer science
-- Building skills in Node.js, Express, MongoDB and JavaScript
-- Well conversant with Java, C++, Python
-- Working on real-world projects that solve practical problems.
-- Based in Kenya
+I'm a Computer Science student passionate about turning raw data into meaningful insights and building practical, real-world software solutions. I enjoy exploring data, building models, and developing web applications — turning ideas into working systems one at a time.
+
+🎓 Currently studying Computer Science
+📊 Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
+🌐 Web Development — Node.js, Express, MongoDB, and JavaScript
+💻 Also well conversant with Java and C++
+🔨 Working on data-driven and web projects that solve practical problems
+📍 Based in Kenya
   ## Ambitions
  - Build production-ready fullstack applications
  - Collaborate on open source projects
