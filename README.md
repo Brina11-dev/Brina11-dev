@@ -10,10 +10,12 @@ I'm a Computer Science student passionate about turning raw data into meaningful
 - 🔨 Working on data-driven and web projects that solve practical problems
 - 📍 Based in Kenya
   ## Ambitions
- - Build production-ready fullstack applications
- - Collaborate on open source projects
- - Grow into professional software Engineer who ships meaningful products
- - Use technology to solve problems in Kenya and beyond
+- Build production-ready data pipelines and machine learning models
+- Collaborate on open source data science projects
+- Grow into a professional Data Scientist who turns data into real-world impact
+- Use data and technology to solve problems in Kenya and beyond
+
+
   ## Contact Me
   [ojowibrina@gmail.com](mailto:ojowibrina@gmail.com)
   <p align="center"><em>"Every expert was once a beginner. Keep building, keep learning."</em> </p>
