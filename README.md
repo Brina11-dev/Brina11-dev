@@ -3,6 +3,11 @@ Aspiring Data Scientist and Engineer.Good at building systems that solve real wo
 ## About Me
 I'm a Computer Science student passionate about turning raw data into meaningful insights and building practical, real-world software solutions. I enjoy exploring data, building models, and developing web applications — turning ideas into working systems one at a time.
 
+## 🚀 Featured Projects
+
+- **[WithHer](https://github.com/Brina11-dev/WithHer)** — Mobile-first reproductive health web app for women in Kenya. Built with Node.js, Express, MySQL, and Groq AI.
+- **[Netflix Catalog Analysis](https://github.com/Brina11-dev/Netflix-Analysis-)** — Data analysis project exploring Netflix content trends using Python, Pandas, and Matplotlib.
+  
 - 🎓 Currently studying Computer Science
 - 📊 Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
 - 🌐 Web Development — Node.js, Express, MongoDB, and JavaScript
@@ -14,8 +19,12 @@ I'm a Computer Science student passionate about turning raw data into meaningful
 - Collaborate on open source data science projects
 - Grow into a professional Data Scientist who turns data into real-world impact
 - Use data and technology to solve problems in Kenya and beyond
-
-
+  
+## 📚 Currently Learning
+- Machine Learning with Scikit-learn
+- Data visualization and storytelling
+- SQL for data analysis
+- 💼 Available for freelance work — Data Analysis & Full-Stack Web Development
   ## Contact Me
   [ojowibrina@gmail.com](mailto:ojowibrina@gmail.com)
   <p align="center"><em>"Every expert was once a beginner. Keep building, keep learning."</em> </p>
