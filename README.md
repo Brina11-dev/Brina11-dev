@@ -10,6 +10,7 @@ I'm a Computer Science student passionate about turning raw data into meaningful
 
   ## Certifications
   **TechSkillUp 3.0 - Python for Data Analysis** (Merit) - Sep 2026
+  (https://github.com/Brina11-dev/Brina11-dev/blob/main/Brina%20Ojowi.png)
   
   
 -  Currently studying Computer Science
