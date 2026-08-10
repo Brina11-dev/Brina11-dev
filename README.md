@@ -10,6 +10,7 @@ I'm a Computer Science student passionate about turning raw data into meaningful
 
   ## Certifications
   **TechSkillUp 3.0 - Python for Data Analysis** (Merit) - Sep 2026
+  [Netflix Data Analysis](https://github.com/Brina11-dev/Netflix-Analysis-).
 -  Currently studying Computer Science
 -  Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
 -  Web Development — Node.js, Express, MongoDB, and JavaScript
