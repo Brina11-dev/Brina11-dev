@@ -7,7 +7,9 @@ I'm a Computer Science student passionate about turning raw data into meaningful
 
 - **[WithHer](https://github.com/Brina11-dev/WithHer)** — Mobile-first reproductive health web app for women in Kenya. Built with Node.js, Express, MySQL, and Groq AI.
 - **[Netflix Catalog Analysis](https://github.com/Brina11-dev/Netflix-Analysis-)** — Data analysis project exploring Netflix content trends using Python, Pandas, and Matplotlib.
-  
+
+  ## Certifications
+  **TechSkillUp 3.0 - Python for Data Analysis** (Merit) - Sep 2026
 -  Currently studying Computer Science
 -  Building skills in Data Science — Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, and Power BI
 -  Web Development — Node.js, Express, MongoDB, and JavaScript
